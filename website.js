@@ -210,4 +210,3 @@ function moveTo(id) {
   document.getElementById('navbarService').addEventListener('click', moveTo.bind(null,'service'));
   document.getElementById('navbarPortfolio').addEventListener('click', moveTo.bind(null,'portfolio'));
   document.getElementById('navbarReview').addEventListener('click', moveTo.bind(null,'review'));
-
